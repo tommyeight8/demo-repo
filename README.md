@@ -1,7 +1,12 @@
-#Demo
+# DEMO 2 
 
-Beginning GitHub!
+Git tutorial demo 2 
 
 ## Subheader
 
-Git tutorial
+example 1
+
+## Local Development
+
+1. Open index.html in your browser
+
